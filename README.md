@@ -83,7 +83,3 @@ Special thanks to **SkillCraft** for the opportunity to work on this project and
 
 `#SkillCraftInternship` `#Task2` `#CustomerSegmentation` `#KMeansClustering` `#MachineLearning` `#FlaskApp` `#PythonProject` `#DataScience` `#WebDevelopment` `#UIUXDesign` `#WomenInTech`
 
-
----
-
-Let me know if you'd like help customizing the LinkedIn or GitHub links, or want a badge-style header for your repo!
